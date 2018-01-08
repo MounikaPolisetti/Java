@@ -1,7 +1,6 @@
-# Java
+## Java
 
-Data Structures
+About
+=====
 
-Collections 
-
-Multi-Threading
+Topics covered: Data Structures, Collections, Multi-Threading
